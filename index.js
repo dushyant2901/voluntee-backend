@@ -9,7 +9,7 @@ const eventRouter = require("./routes/events.router");
 
 const cors = require('cors');
 const corsOptions = {
-  origin: ['http://localhost:3000', 'https://recroot.vercel.app'],
+  origin: ['http://localhost:3000', 'https://voluntee.onrender.com'],
   credentials: true,
   optionSuccessStatus: 200
 }
